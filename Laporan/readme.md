@@ -1,0 +1,1 @@
+folder laporan ini berisi file-file laporan yang telah dibuat selama proses proyek. Laporan ini dapat mencakup analisis data, hasil evaluasi model, visualisasi, dan dokumentasi lainnya yang relevan dengan proyek. Pastikan untuk menyimpan laporan dengan nama yang jelas dan deskriptif agar mudah diidentifikasi dan diakses kembali di masa depan.

@@ -1,0 +1,1 @@
+folder model ini berisi file-file model yang telah dilatih dan disimpan dalam format yang sesuai (misalnya `.pkl`, `.h5`, atau format model lain). File-file ini dapat digunakan untuk evaluasi lebih lanjut, deployment, atau sebagai referensi untuk eksperimen selanjutnya. Pastikan untuk menyimpan model dengan nama yang jelas dan deskriptif agar mudah diidentifikasi.
