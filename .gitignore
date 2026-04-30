@@ -3,3 +3,4 @@ SKILL.md
 Dataset/fake_news_dataset_cleaned.csv
 Notebook/extracted_features/*
 Notebook/*.py
+Dataset/WELFake_Dataset.csv
