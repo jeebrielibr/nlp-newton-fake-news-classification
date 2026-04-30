@@ -1,4 +1,5 @@
 *.npy
 SKILL.md
 Dataset/fake_news_dataset_cleaned.csv
-Notebook/extracted_features/X_tfidf.npz
+Notebook/extracted_features/*
+Notebook/*.py
